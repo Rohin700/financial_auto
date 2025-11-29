@@ -7,8 +7,9 @@ import pandas as pd
 import plotly.express as px
 from sqlalchemy import create_engine
 
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 st.markdown(
     """
