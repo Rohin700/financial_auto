@@ -1,6 +1,6 @@
-streamlit==1.29.0
+streamlit==1.25.0
 pandas==2.3.3
 mysql-connector-python==9.5.0
-sqlalchemy==2.0.23
-plotly==5.17.0
-python-dotenv==1.0.0
+plotly==5.20.0
+SQLAlchemy==2.0.20
+python-dotenv==1.0.1
