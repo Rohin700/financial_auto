@@ -1,8 +1,7 @@
+streamlit==1.29.0
 pandas==2.3.3
 mysql-connector-python==9.5.0
 plotly==5.16.1
-pillow==10.4.0
-SQLAlchemy==2.0.20
+pillow==9.5.0        
+SQLAlchemy==2.0.19    
 python-dotenv==1.0.1
-streamlit==1.29.0
-
